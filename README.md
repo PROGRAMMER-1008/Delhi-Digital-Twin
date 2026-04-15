@@ -1,6 +1,6 @@
 # 🏙️ Delhi Digital Twin — Decision Intelligence System
 
-A full-stack AI-powered simulation platform for urban decision-making. Built for national hackathon.
+A full-stack AI-powered simulation platform for urban decision-making.
 
 ---
 
